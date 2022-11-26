@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // text advanture game.
 import inquirer from 'inquirer';
 import chalk from 'chalk';
